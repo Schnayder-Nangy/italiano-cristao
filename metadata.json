@@ -1,0 +1,7 @@
+{
+  "name": "Il Cammino delle 21 Preghiere",
+  "description": "A premium spiritual devotional app offering a 21-day journey of light and hope through prayer and reflection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
